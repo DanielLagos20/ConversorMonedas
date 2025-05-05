@@ -11,5 +11,3 @@ Manejo de archivos (FileWriter)
 Formato de fechas y datos numéricos
 
 Uso de librerías como Gson para deserialización JSON
-
-Principios básicos de programación orientada a objetos
